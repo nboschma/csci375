@@ -1,0 +1,15 @@
+So these are temporary notes for now. If project looks promising I will try to 
+write up a proper spec.
+
+Idea is we are going to create an OO implementations of a university class system
+where classes have pre-reqs and co-reqs. 
+
+There will also be the idea that there are majors / minors that have specific 
+requirments. 
+
+Idea that peaple can take classes
+
+People can select courses they would like to take. And it will try to build a
+schedule around these courses, and let them know if there are any requirments for
+there major or minor that they have not completed.  
+
